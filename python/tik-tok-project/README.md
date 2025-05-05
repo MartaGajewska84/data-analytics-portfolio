@@ -65,4 +65,28 @@ Derived metrics (like "likes per view") were created during the analysis phase.
 
 ---
 
+## ✅ How to Use
+
+1. Clone or download this repository.
+2. Open the `tiktok_eda.ipynb` notebook in Jupyter Notebook or JupyterLab.
+3. Run all cells to see the step-by-step analysis.
+4. Open `TikTokProject.twb` using Tableau Public or Tableau Desktop to explore interactive visualizations.
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.8 or higher
+- Jupyter Notebook or JupyterLab
+- Required Python libraries:
+  - pandas
+  - matplotlib
+  - seaborn
+- Tableau Public or Tableau Desktop 2021.4 or newer
+
+---
+
+## 📚 License
+This project is for educational use only.
+
 
