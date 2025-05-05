@@ -1,76 +1,77 @@
 # 🧠 Mental Health and Lifestyle Habits (2019–2024)
 
-Projekt analizujący dane dotyczące zdrowia psychicznego, nawyków życiowych i czynników demograficznych w latach 2019–2024.
+A project analyzing data on mental health, lifestyle habits, and demographic factors from 2019 to 2024.
 
 ---
 
-## 📦 Zawartość pliku
+## 📦 File Contents
 
-Plik `Mental Health and Lifestyle Habits (2019–2024).xlsx` zawiera zestawienie danych zebranych od respondentów z różnych krajów, z podziałem na wiek, płeć, styl życia oraz stan zdrowia psychicznego.
+The file `Mental Health and Lifestyle Habits (2019–2024).xlsx` contains a dataset collected from respondents across various countries, categorized by age, gender, lifestyle, and mental health status.
 
-### Arkusze:
+### Sheets:
 
-| Arkusz                      | Opis                                                                 |
-|----------------------------|----------------------------------------------------------------------|
-| `Data`                     | Główna tabela surowych danych respondentów (demografia, sen, stres) |
-| `Gender Distribution`      | Liczba respondentów wg płci                                          |
-| `Respondents by Age`       | Liczba respondentów wg grupy wiekowej                                |
-| `Respondents by Country`   | Rozkład respondentów wg kraju i płci                                |
-| `Sleep Work Hours`         | Średnie godziny snu i pracy wg wieku                                 |
-| `Mental Health Condition`  | Średnie występowanie problemów zdrowia psychicznego                  |
-| `Stress Activity Score`    | Zależność stresu i aktywności od godzin pracy                        |
-| `Dashboard`                | Przestrzeń do stworzenia dashboardu                                  |
-
----
-
-## 📊 Zmienne w tabeli `Data`
-
-- `Country` – kraj pochodzenia respondenta
-- `Age`, `Age Range` – wiek i przedział wiekowy
-- `Gender` – płeć
-- `Exercise Level` – poziom aktywności fizycznej
-- `Diet Type` – typ diety (np. wegańska, zbilansowana)
-- `Sleep Hours` – średnia liczba godzin snu dziennie
-- `Work Hours per Week` – tygodniowa liczba godzin pracy
-- `Mental Health Condition` – zdiagnozowany stan zdrowia psychicznego (np. PTSD, depresja)
-- `Stress Level` – subiektywny poziom stresu
-- `Happiness Score` – ocena poziomu szczęścia w skali 1–10
-- `Social Interaction Score` – ocena kontaktów społecznych
-- `Activity Score` – ogólny poziom aktywności fizycznej
+| Sheet                     | Description                                                                |
+|---------------------------|-----------------------------------------------------------------------------|
+| `Data`                    | Main raw data table (demographics, sleep, stress)                          |
+| `Gender Distribution`     | Number of respondents by gender                                            |
+| `Respondents by Age`      | Number of respondents by age group                                         |
+| `Respondents by Country`  | Respondent distribution by country and gender                              |
+| `Sleep Work Hours`        | Average sleep and work hours by age group                                  |
+| `Mental Health Condition` | Average occurrence of mental health conditions                             |
+| `Stress Activity Score`   | Relationship between stress and activity vs. work hours                    |
+| `Dashboard`               | Space for dashboard creation                                               |
 
 ---
 
-## 📈 Wizualizacje
+## 📊 Variables in the `Data` Sheet
 
-Dashboard prezentuje m.in.:
-- Rozkład demograficzny respondentów
-- Średnie godziny snu i pracy wg wieku
-- Zależność między stresem a aktywnością
-- Porównanie poziomów szczęścia wg zdrowia psychicznego
-
----
-
-## ✅ Jak korzystać
-
-1. Otwórz plik w Excelu.
-2. Przejdź do arkusza `Dashboard` – znajdziesz tam interaktywny układ z slicerami.
-3. Filtruj dane według kraju, płci, wieku lub godzin pracy, aby analizować różne grupy.
-
----
-
-## 🛠️ Wymagania
-
-- Microsoft Excel 2016 lub nowszy
-- Włączone makra i tabele przestawne (opcjonalnie segmentatory)
+- `Country` – respondent’s country of origin  
+- `Age`, `Age Range` – age and age category  
+- `Gender` – gender  
+- `Exercise Level` – physical activity level  
+- `Diet Type` – type of diet (e.g., vegan, balanced)  
+- `Sleep Hours` – average daily sleep duration  
+- `Work Hours per Week` – number of work hours per week  
+- `Mental Health Condition` – diagnosed mental health condition (e.g., PTSD, depression)  
+- `Stress Level` – self-reported stress level  
+- `Happiness Score` – happiness rating on a scale from 1 to 10  
+- `Social Interaction Score` – rating of social interaction  
+- `Activity Score` – overall physical activity score  
 
 ---
 
-## 📂 Źródło danych
+## 📈 Visualizations
 
-Dane wykorzystane w tym projekcie pochodzą z [Kaggle – Mental Health and Lifestyle Habits (2019–2024)](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024/data).  
-Zestaw zawiera informacje o stanie zdrowia psychicznego, stylu życia, diecie, poziomie stresu i szczęścia wśród respondentów z różnych krajów.
+The dashboard includes:
+- Demographic distribution of respondents  
+- Average sleep and work hours by age group  
+- Relationship between stress and activity level  
+- Comparison of happiness levels by mental health status  
 
-## 📚 Licencja
+---
 
-Projekt edukacyjny, do użytku niekomercyjnego.
+## ✅ How to Use
 
+1. Open the file in Excel.  
+2. Go to the `Dashboard` sheet — it contains an interactive layout with slicers.  
+3. Filter the data by country, gender, age, or work hours to analyze different groups.
+
+---
+
+## 🛠️ Requirements
+
+- Microsoft Excel 2016 or later  
+- Macros and PivotTables enabled (optional slicers)
+
+---
+
+## 📂 Data Source
+
+The dataset used in this project comes from [Kaggle – Mental Health and Lifestyle Habits (2019–2024)](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024/data).  
+It contains information on mental health, lifestyle, diet, stress, and happiness levels from respondents across various countries.
+
+---
+
+## 📚 License
+
+Educational project, for non-commercial use.
