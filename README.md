@@ -11,3 +11,4 @@ Hello! I'm Marta Gajewska, and this is my portfolio showcasing projects in data 
 ## 🔗 Selected Projects
 
 - [Mental Health Dashboard (Excel)](excel/mental-health-dashboard/)
+- [TikTok Content Engagement Analysis (Python)](python/tik-tok-project/)
