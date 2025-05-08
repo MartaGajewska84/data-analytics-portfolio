@@ -1,0 +1,84 @@
+teacher_id,first_name,last_name,email,specialty,hire_date,degree,years_experience,status
+1,Brian,Moore,roselinda@powell-floyd.org,biology,2017-12-08,,6,active
+2,Anthony,Lozano,kkent@yahoo.com,english,2022-01-14,,26,former
+3,Jessica,Bush,skeller@gmail.com,history,2019-12-14,PhD,5,active
+4,Bryce,Conway,aschroeder@hotmail.com,maths,2023-06-16,Master,17,on leave
+5,Nathan,Miller,zgarcia@yahoo.com,history,2019-08-16,PhD,27,active
+6,Nicholas,Stuart,allenwilliams@hensley.com,physics,2023-08-12,Bachelor,3,on leave
+7,Erica,Charles,nsimpson@yahoo.com,biology,2011-12-04,PhD,6,former
+8,Mallory,House,carlosmoore@allen.com,french,2021-06-18,,36,on leave
+9,Jessica,Sanchez,jerrywilson@yahoo.com,french,2013-12-21,Master,21,active
+10,Madeline,Olson,sarah68@hotmail.com,german,2018-07-28,,10,former
+11,Sara,Smith,michaeltodd@bullock.com,art,2013-08-09,PhD,24,active
+12,Shawn,Alexander,hawkinsjonathan@yahoo.com,german,2012-09-16,PhD,15,former
+13,Erin,Yu,wkidd@gmail.com,,2010-11-04,Bachelor,0,active
+14,Andrew,Hernandez,ashleysparks@yahoo.com,biology,2020-01-12,Master,25,active
+15,Jenny,Diaz,stevehuffman@gmail.com,physics,2019-05-09,Master,28,active
+16,Mary,Gray,victor27@yahoo.com,chemistry,2010-06-23,,10,active
+17,Victor,Williams,gregory10@bradley-snyder.info,chemistry,2023-11-04,Master,36,active
+18,Tracy,Collier,xschwartz@yahoo.com,physics,2015-12-27,,19,active
+19,Jeanette,Hansen,lauralopez@hotmail.com,biology,2022-08-24,,33,on leave
+20,Scott,Roberts,njones@hotmail.com,chemistry,2019-12-17,,14,active
+21,Breanna,Miller,gerald04@yahoo.com,art,2010-09-28,PhD,38,on leave
+22,Barbara,Moore,jonesbruce@yahoo.com,history,2010-05-10,Bachelor,0,former
+23,Jessica,Lee,pennyleon@hotmail.com,,2018-03-27,Bachelor,34,active
+24,Stacey,Nguyen,parkerlindsay@yahoo.com,english,2011-03-17,Bachelor,12,active
+25,Dorothy,Stevens,madison04@english.com,maths,2018-02-27,Master,21,active
+26,Leslie,Hernandez,christopher88@newton.info,biology,2022-09-03,,21,active
+27,Jordan,Gray,qsmith@perkins-wilson.org,chemistry,2011-02-23,Bachelor,16,former
+28,Daniel,Morris,penavictoria@yahoo.com,biology,2014-06-03,,31,former
+29,James,Turner,johnbriggs@hotmail.com,chemistry,2014-04-09,Bachelor,1,active
+30,Jack,Clayton,margaretclark@yahoo.com,chemistry,2014-08-11,Bachelor,24,former
+31,Melissa,Mcdonald,catherine36@hotmail.com,german,2021-03-30,Master,29,active
+32,Patricia,Wright,brandonmedina@miller.biz,art,2021-03-14,PhD,38,on leave
+33,Eric,Butler,marygonzalez@hotmail.com,art,2011-02-04,PhD,14,former
+34,Patrick,Gray,christinecrawford@hart.info,biology,2012-07-13,Bachelor,5,active
+35,Matthew,Norris,roger00@gmail.com,spanish,2014-06-12,Bachelor,2,active
+36,John,Ruiz,mckinneyjerry@phelps.com,history,2023-09-20,,25,former
+37,Karen,Thomas,kevingibson@hotmail.com,chemistry,2011-03-11,Bachelor,15,active
+38,Gregory,Green,mooreraymond@lopez.org,biology,2014-05-21,,0,former
+39,Lindsay,Steele,jamesgeorge@gmail.com,spanish,2020-06-19,Bachelor,26,active
+40,Matthew,Ritter,eadkins@gmail.com,english,2021-04-21,,21,on leave
+41,Penny,Anderson,nicholas96@marquez.org,biology,2022-05-24,Bachelor,11,active
+42,Eric,Richardson,josephmendez@gmail.com,maths,2010-06-27,Master,23,active
+43,Nancy,Mcdonald,john84@yahoo.com,history,2023-08-23,Master,10,on leave
+44,Diana,Parrish,jason80@gmail.com,physics,2016-07-26,,26,active
+45,Joshua,Preston,laura17@yahoo.com,biology,2012-08-02,PhD,11,active
+46,Amanda,Lee,rkelley@bishop.net,maths,2023-08-23,,26,active
+47,Douglas,Barrera,ihartman@hotmail.com,german,2020-06-19,Master,2,on leave
+48,Scott,Harrington,fraziermark@hotmail.com,spanish,2023-12-23,Bachelor,9,active
+49,Luis,Hess,mitchelljessica@hotmail.com,history,2012-01-09,PhD,40,active
+50,Samuel,Jones,dana08@gmail.com,chemistry,2016-06-16,PhD,23,active
+51,Robert,Clark,osmith@mclaughlin.com,art,2015-05-11,Bachelor,27,active
+52,Jennifer,Woods,ymonroe@whitehead-hawkins.com,chemistry,2021-03-27,,12,active
+53,Brian,Brooks,steelechristopher@odom.com,chemistry,2020-07-23,PhD,25,active
+54,Karen,Savage,mriggs@gmail.com,biology,2015-03-19,,18,active
+55,Elizabeth,Huerta,valeriehebert@sutton.com,french,2021-03-07,PhD,13,former
+56,Linda,Duran,ztrujillo@gmail.com,chemistry,2011-07-07,,23,active
+57,Jeremy,Glass,pcook@yahoo.com,english,2021-09-30,,17,active
+58,Ernest,Blair,jamesphillips@hotmail.com,chemistry,2023-02-12,PhD,31,active
+59,Stephanie,Nguyen,amy09@rivera-snyder.net,chemistry,2023-03-07,Master,35,former
+60,Lance,Brown,holmesmichele@hernandez.com,maths,2011-05-09,Master,3,active
+61,Sydney,Orr,wilsonmichael@hotmail.com,history,2021-05-31,,2,on leave
+62,Jaime,Brown,nicholas05@yahoo.com,spanish,2020-09-13,PhD,39,former
+63,Margaret,Thompson,andrew62@gmail.com,maths,2019-01-17,Bachelor,22,active
+64,Peter,White,gary52@morgan-fields.com,biology,2016-01-28,Bachelor,9,former
+65,Billy,Harris,mbaldwin@hotmail.com,physics,2017-05-07,Master,24,active
+66,Desiree,Jackson,diazjames@johnson.net,german,2017-05-21,PhD,8,active
+67,Kevin,Ho,brianrice@hamilton.org,chemistry,2021-02-23,Master,27,former
+68,Jenny,Patterson,jessicamelton@christian-perez.com,art,2021-08-22,Bachelor,12,former
+69,William,Bennett,judithsmith@collins.org,,2024-02-28,PhD,36,active
+70,Anthony,Gutierrez,millerkelsey@larson-frederick.org,french,2012-04-29,PhD,31,former
+71,Ebony,Cruz,usmith@wells.com,history,2017-11-09,Master,8,former
+72,Kelly,Smith,aramirez@rhodes-marks.com,chemistry,2020-05-05,Master,26,active
+73,Fernando,Lester,callen@hotmail.com,history,2018-03-30,Master,12,active
+74,Michael,Robbins,gonzalezjonathan@schroeder-ramos.com,biology,2017-02-25,PhD,29,active
+75,Jessica,Dominguez,alvin62@yahoo.com,german,2010-05-23,Master,1,active
+76,Kevin,Cruz,lisamartinez@hotmail.com,physics,2016-11-27,PhD,20,active
+77,Brad,Ruiz,longfelicia@kennedy.com,spanish,2022-10-01,PhD,37,former
+78,Robert,Benson,tflores@hotmail.com,maths,2013-10-01,PhD,12,active
+79,Robert,Thomas,kingmanuel@gonzalez.net,english,2021-02-06,Master,39,on leave
+80,Scott,Brown,ashley65@yahoo.com,chemistry,2024-03-07,Bachelor,21,former
+81,Kristen,Griffith,ramirezmichael@ortiz.com,,2011-01-02,Bachelor,39,on leave
+82,Samuel,Bray,rebecca51@yahoo.com,chemistry,2016-09-09,,31,active
+83,Linda,Kennedy,brownjessica@marshall.com,physics,2017-05-14,PhD,17,active
