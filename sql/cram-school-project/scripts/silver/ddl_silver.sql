@@ -23,7 +23,9 @@ CREATE TABLE silver.students (
     registration_date  DATE,
     gender             VARCHAR(10),
     education_level    VARCHAR(50),
-    status             VARCHAR(20)
+    status             VARCHAR(20),
+    full_name          VARCHAR(100),
+    age                INT
 );
 
 -- Drop and create teachers table
@@ -37,7 +39,8 @@ CREATE TABLE silver.teachers (
     hire_date          DATE,
     degree             VARCHAR(50),
     years_experience   INT,
-    status             VARCHAR(20)
+    status             VARCHAR(20),
+    full_name          VARCHAR(100)
 );
 
 -- Drop and create courses table
@@ -52,6 +55,7 @@ CREATE TABLE silver.courses (
     level         VARCHAR(50),
     status        VARCHAR(20),
     price         DECIMAL(10,2),
+    duration_days INT,
     FOREIGN KEY (teacher_id) REFERENCES silver.teachers(teacher_id)
 );
 
@@ -75,6 +79,7 @@ CREATE TABLE silver.enrollments (
     enrolled_on        DATE,
     completion_status  VARCHAR(20),
     payment_id         INT UNIQUE,
+    enrollment_year    INT,
     FOREIGN KEY (student_id) REFERENCES silver.students(student_id),
     FOREIGN KEY (course_id) REFERENCES silver.courses(course_id),
     FOREIGN KEY (payment_id) REFERENCES silver.payments(payment_id)
@@ -87,6 +92,7 @@ CREATE TABLE silver.assessments (
     course_id         INT,
     assessment_name   VARCHAR(50),
     assessment_date   DATE,
+    assessment_year   INT,
     FOREIGN KEY (course_id) REFERENCES silver.courses(course_id)
 );
 
@@ -98,6 +104,7 @@ CREATE TABLE silver.grades (
     assessment_id  INT,
     score          DECIMAL(5,2),
     passed         BOOLEAN,
+    grade_category VARCHAR(20),
     FOREIGN KEY (student_id) REFERENCES silver.students(student_id),
     FOREIGN KEY (assessment_id) REFERENCES silver.assessments(assessment_id)
 );
